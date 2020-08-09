@@ -5,3 +5,6 @@
 HOW TO USE:
 
 Once the bot is in your discord server and running, there are two commands one can type in chat that the bot reacts to. The first command is 'go!', which simply insults you, but also let's you know that the bot is running. To display a trivia question, the command 'now!' is to be used. A question will be displayed, and there will be four multiple choice answers below the question, the first one to type in the correct number to the corresponding answer (1-4) will be named by the bot, as well as a small congratulatory message.
+
+
+NOTE: The bot must be running on a local machine for it to be used and appear online in a discord server.
